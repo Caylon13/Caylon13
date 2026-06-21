@@ -1,59 +1,71 @@
-# Hello, I'm Caylon
+# Hello, I'm Caylon Stasie
 <a href="https://www.linkedin.com/in/caylon-s-07a0a495/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-I am a helpdesk analyst looking to develop my skills and grow in the IT industry.
+## Junior IT Governance, Risk & Compliance Professional
 
-## Objective
+I am an IT professional with experience in technical support and a growing focus on Governance, Risk, Compliance, and Information Security. I enjoy translating frameworks and standards into practical controls that improve security and business resilience.
 
-My journey in IT has led me to develop an interest in systems administration, and I am now eager to transition into this field, specifically aiming to land a role as a Systems Administrator.
+---
+
+## Areas of Interest
+
+- IT Governance
+- Information Security
+- Risk Management
+- IT Auditing
+- ISO 27001
+- NIST Cybersecurity Framework
+- COBIT
+- Third-Party Risk Management
+- Compliance Monitoring
+
+---
+
+## Frameworks
+
+- ISO 27001:2022
+- NIST CSF 2.0
+- COBIT 2019
+- CIS Controls
+- IT General Controls (ITGC)
+
+---
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### Governance & Compliance
+- Policy Management
+- Compliance Monitoring
+- Governance Reporting
+- Control Testing
+
+### Risk Management
+- Risk Identification
+- Risk Assessments
+- Risk Registers
+- Corrective Action Tracking
+
+### Audit
+- Audit Evidence Collection
+- Audit Findings
+- Corrective Action Plans
+- Meeting Minutes
+- Issue Tracking
+
+---
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- Microsoft Excel
+- Word
+- PowerPoint
+- GitHub
+- Markdown
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## Current Focus
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+Building practical GRC projects and developing expertise in IT Governance, Risk Management, Compliance, and Information Security.
